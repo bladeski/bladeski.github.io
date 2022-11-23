@@ -2,6 +2,6 @@
 
 Some of my work...
 
-[Countdown Timer]('/countdown-timer-example')
+[Countdown Timer]('https://bladeski.github.io/countdown-timer-example/')
 
-[b-links]('/b-links')
+[b-links]('https://bladeski.github.io/b-links/')
